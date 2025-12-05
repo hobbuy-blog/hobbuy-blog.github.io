@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
+
 Sitemap: https://hobbuy-blog.github.io/sitemap.xml
